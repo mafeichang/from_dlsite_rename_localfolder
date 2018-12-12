@@ -1,4 +1,4 @@
-# 根据DLsite作品RJ号进行文件夹处理
+根据DLsite作品RJ号进行文件夹处理
 
 
 1.from_dlsite_rename_localfolder.py
